@@ -6,7 +6,7 @@ Submitted by: Christine Cherian
 
 Time spent: 4 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/prairie-highfalutin-sprout?path=index.html%3A9%3A38
+Link to project: https://glitch.com/~a-simple-light-and-sound-memory-game
 
 ## Required Functionality
 
