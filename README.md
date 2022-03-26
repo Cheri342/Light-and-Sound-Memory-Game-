@@ -46,10 +46,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-No outside resources were used to complete my submisson. 
+- No outside resources were used to complete my submisson. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-HI i did 
+- A challenge I faced when created a submission for my Prework was exporting my project to Github. This is my first time using Github to export my project from Glitch. I have done several projects on my own and have shared them on my Github but I do not have a full understanding of all the features Github provides. I was relieved that CodePath has provided me a video demonstrating how to export the project correctly and all the other important aspects Github offers. Furthermore, Glitch was also a challenge for me to work on the project since I have never used this website in my computer science studies. However, I was able to overcome this problem easily from all the information and steps that were provided to me by CodePath. From this, I learned additional topics in HTML, CSS, and Javascript that I did not realize prior to the project. I have also used my own logic to add additional features to my project to completely acknowledge all topics and remember to use them in future projects. Lastly, another challenge I have faced was uploading my interview video. I have done several interviews for internships or jobs and did exceedingly well in them from practicing often by myself or with an intended audience like my academic advisors or a group of students. However, I have not experienced doing an interview where I had to record myself for five minutes answering a set of questions. I was comfortable answering all the questions in my video but it was a challenge to get my video to five minutes. But, I spent a majority of my time to answer each question with a brief explanation and providing examples to overcome the issue. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 HI I did 
