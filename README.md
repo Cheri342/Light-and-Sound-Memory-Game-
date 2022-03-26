@@ -55,9 +55,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 - After completing my prework submission I had several doubts regarding to the web development of the project. For example, is it necessary to include a css file? I have created a few websites where I added style to each element simply by putting it inside the tag. For example, I can use the style attribute to add color and font for h1, p, body, etc.. I also had a doubt on adding images to my websites or projects on how to edit the image using css if the image was found online. For instance, I would like to know how to resize and add style to the image using css. Lastly, is Javascript the only language I can use to corporate HTML and CSS or can I use other languages like Python or Java to build mobile apps, online games, etc.? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-- 
-
-
+- If I had more time to work on this project, I would add many exciting features to improve the overall game. I would have changed the speed of the time each button was played more quickly so users do not have to wait briefly for their turn. With the slow timing users could feel less excited to play and the game would take longer to complete. I would also have added different patterns each time a user has played so users do not get bored in playing the same pattern each time. Lastly, I would add 3 strikes so each user can make 2 mistakes before losing the game. Overall, I would have made changes in my Javascript functions (playClueSequence, guess, startGame, etc.) and change the values of my global constants to perform all these features. 
 
 ## Interview Recording URL Link
 
