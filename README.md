@@ -2,10 +2,6 @@
 
 **Memory Game** is a Light & Sound Memory game 
 
-Submitted by: Christine Cherian
-
-Time spent: 4 hours spent in total
-
 Link to project: https://glitch.com/~a-simple-light-and-sound-memory-game
 
 ## Functionality
